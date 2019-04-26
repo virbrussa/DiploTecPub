@@ -35,4 +35,6 @@ Podemos usar ...
 
 2-Se pueden ir sumando como **participant** 
 
-3-Todxs podemos ir editando este Readme o sumando comentarios para ir organizando el trabajo :smirk:
+3- Podes suscribirte a cada ISSUE para recibir notificaciones ( botón Izquierda debajo de Milestone)
+
+4-Todxs podemos ir editando este Readme o sumando comentarios para ir organizando el trabajo :smirk:
